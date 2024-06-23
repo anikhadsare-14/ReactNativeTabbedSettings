@@ -1,0 +1,22 @@
+export default {
+    white : '#fff',
+    text : '#343434',
+    borderColor : '#e2e2e2',
+    blue : '#197ee3',
+    textLight : '#797979',
+    offWhite: "#F0F0F0",
+    _f6f6f6 : '#f6f6f6',
+    _e8ecf4 : '#e8ecf4',
+    _1e1e1e : '#1e1e1e',
+    _929292 : '#929292',
+    _222 : "#222",
+    _6b7288 : "#6b7288",
+    _075ccc : '#075ccc',
+    _1d1d1d : "#1d1d1d",
+    _e3e3e3 : "#e3e3e3",
+    _ccc : "#ccc",
+    _3d3d3d : "#3d3d3d",
+    _6366f1 : "#6366f1",
+    _e5e7eb : "#e5e7eb",
+    _6b7280 : "#6b7280"
+};
